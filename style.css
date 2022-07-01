@@ -37,13 +37,7 @@
     text-align: center;
     box-shadow: 7px 7px 15px #4F9D9C;
     border-radius: 1%;
-    padding: 15px;
-}
-
-@media (max-width: 525px) {
-    #review-box {
-        padding: 15px 30px;
-    }
+    padding: 15px 30px;
 }
 
 #img-container {

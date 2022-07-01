@@ -82,3 +82,6 @@ function pushRandom() {
     job.innerHTML = reviews[reviewNum].job.toUpperCase();
     review.innerHTML = reviews[reviewNum].text;
 }
+
+// timer to change to the next review
+setInterval(pushNext, 10000);
